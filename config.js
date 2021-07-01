@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'E Chi à!',
     introDesc: `Trái đất vốn rất nhiều người ăn bún đậu chấm nước mắm
     Mà sao anh với e lại gặp nhau một cách lạ thường đến thế nhỉ
-   Lạc vào tim em mất rồi
+    Lạc vào tim em mất rồi
     làm sao mà thoát ra được nữa đây`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
